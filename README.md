@@ -61,8 +61,4 @@ The application showcases object-oriented programming principles, efficient codi
 
 - Java (Core Java, Collections, Exception Handling)
 - JDBC
-- MySQL 
-
-
-
-Replace placeholders like `https://github.com/your-username/e-commerce-console-app.git` with your actual repository link. Adjust the details to match your specific project setup.
+- MySQL
